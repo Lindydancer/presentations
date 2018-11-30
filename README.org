@@ -1,0 +1,16 @@
+#+title: Presentations made by Anders Lindgren (Lindydancer)
+#+author: Anders Lindgren
+
+* Overview of my life in Emacs
+
+[[overview.org]] contains an overview of My Emacs background and lists most of the
+packages I've written throughout the years.
+
+This was presented at the [[https://www.meetup.com/Stockholm-Emacs-Meetup][Stockholm Emacs Meetup]] 2018-11-28.
+
+* Introduction to Syntax Highlighting
+
+In [[font-lock-introduction.org]], I present how to Emacs handles syntax
+highlighting, how to write your own font-lock rules, and a number of tools
+
+This was presented at the [[https://www.meetup.com/Stockholm-Emacs-Meetup][Stockholm Emacs Meetup]] 2015-06-11.

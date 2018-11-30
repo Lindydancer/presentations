@@ -1,0 +1,105 @@
+* Who am I?
+
+*Anders Lindgren* - *Lindydancer* on GitHub, Emacs stackexchange, etc.
+
+M.Sc. in computing science, Uppsala University
+
+Emacs:
+
+- Started with "Amis" (an Emacs clone) in 1985 on a PDP-11
+
+- Wrote my own Emacs clone for my Commodore 64 in 1986
+
+- Use GNU Emacs for the first time in 1991 (and never looked back)
+
+- Maintainer of the macOS port for Emacs (NS-Emacs) (2015 - 2016)
+
+- I have commit rights to the Emacs git archive
+
+Professionally:
+
+- C++ compiler developer at IAR Systems in Uppsala (1997 - ....)
+
+* Highlighting packages
+
+- [[https://github.com/Lindydancer/lisp-extra-font-lock][Lisp extra font lock]] -- Additional highlight for lisp, e.g. all locally bound
+  variables and quoted expressions
+
+- [[https://github.com/Lindydancer/ruby-extra-highlight][Ruby extra highlight]] -- Highlight parameters in Ruby
+
+- [[https://github.com/Lindydancer/cmake-font-lock][CMake font lock]] -- Highlight CMake files. Aware of signatures of builtin
+  functions, and highlight the argument accordingly
+
+- [[https://github.com/Lindydancer/objc-font-lock][Obj font lock]] -- Highlight Objective-C functions calls
+
+- [[https://github.com/Lindydancer/highlight-doxygen][Highlight doxygen]] -- Highlight doxygen comments. Code blocks are highlighted
+  according to their language
+
+- CWarn mode -- Highlight assigns inside expressions, misplaced semicolons etc
+  (Included in Emacs)
+
+- [[https://github.com/Lindydancer/char-font-lock][Char font lock]] -- Highlight tabs, end-of-line whitespace etc
+
+- [[https://github.com/Lindydancer/nocomments-mode][Nocomments mode]] -- Make comments invisible
+
+- [[https://github.com/Lindydancer/preproc-font-lock][Preproc font lock]] -- Highlight C-style preprocessor directives in Emacs
+
+* Font-lock tools
+
+- [[https://github.com/Lindydancer/font-lock-studio][Font lock studio]] -- Interactive debugger for font-lock keywords
+
+- [[https://github.com/Lindydancer/highlight-refontification][Highlight refontification]] -- Visualize how font-lock refontifies a buffer
+
+- [[https://github.com/Lindydancer/font-lock-profiler][Font lock profiler]] -- Measure time and count the number of time font-lock
+  keywords are used
+
+- [[https://github.com/Lindydancer/faceup][Faceup]] -- Regression test support for highlighting packages
+  (will be included in Emacs 27)
+
+- [[https://github.com/Lindydancer/face-explorer][Face explorer]] -- Library and tools for faces and text properties
+
+* Major modes
+
+- Erlang mode -- Co-author of the major mode for Erlang
+
+- [[https://github.com/Lindydancer/ini-mode][Ini mode]] -- Major mode for Windows =.ini= files
+
+- Rexx mode -- Major mode for (Amiga) REXX
+
+* Command line packages
+
+These packages use Emacs in batch mode.
+
+- [[https://github.com/Lindydancer/e2ansi][e2ansi]] -- Add syntax highlighting support to =more= and =less=
+
+- [[https://github.com/Lindydancer/svnwrapper][svnwrapper]] -- Add paging and syntax highlighting to subversion
+
+* Misc
+
+- Auto revert mode -- Reload files when modified outside Emacs
+  (Included in Emacs)
+
+- Follow mode -- Make side-by-side windows showing the same buffer behave like
+  one very tall window (Included in Emacs)
+
+- [[https://github.com/Lindydancer/multicolumn][Multicolumn]] -- Support for setting up and managing multiple side-by-side
+  windows
+
+- [[https://github.com/Lindydancer/el2markdown][el2markdown]] -- Covert the comment section of elisp files to MarkDown
+
+- [[https://github.com/Lindydancer/dynamic-spaces][Dynamic spaces]] -- When editing, make text separated by two or more spaces
+  stay in place
+
+- [[https://github.com/Lindydancer/mode-line-keyboard][Mode line keyboard]] -- Turn the mode line into a keyboard (EXPERIMENTAL)
+
+- [[https://github.com/Lindydancer/highlight2clipboard][highlight2clipboard]] -- Copy text from Emacs to clipboard with highlighting
+
+- [[https://github.com/Lindydancer/c-align-operands][C align operands]] -- Support to align operators in C-like languages
+
+- [[https://github.com/Lindydancer/editcmacro][Edit C Macro]] -- Edit multi-line C macros in a separate buffer.
+  (RELEASED YESTERDAY!!)
+
+* The end
+
+email: andlind@gmail.com
+GitHub: https://github.com/Lindydancer
